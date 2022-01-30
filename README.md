@@ -1,7 +1,7 @@
 # design-pattern-factory
 exemple 1 :
 
-![image](https://user-images.githubusercontent.com/36199753/151707606-dabddd0d-6688-4b8e-a22e-b3ac4332d6ab.png)
+![image](https://user-images.githubusercontent.com/36199753/151707632-3bb70976-9e74-4b6e-b2a1-81bfa7b4022a.png)
 
 exemple 2 : 
 
